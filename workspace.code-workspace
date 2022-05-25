@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\FlutterTraining\\skgshoppingmall"
+		},
+		{
+			"path": "..\\Kong Rugsiam Official\\Basic Web Tutorial\\HTML เบื้องต้น"
+		},
+		{
+			"path": "..\\Kong Rugsiam Official\\Basic Web Tutorial\\CSS3 เบื้องต้น"
+		},
+		{
+			"path": "..\\Python for Beginner"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSS3 เบื้องต้น",
+		"cSpell.words": [
+			"sklearn"
+		]
+	}
+}
